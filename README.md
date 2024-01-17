@@ -1,6 +1,6 @@
-# Mon Projet
+# Notes 
 
-Bienvenue dans mon référentiel. Voici la liste des sous-répertoires :
+Bienvenue dans mon référentiel:
 
 - [CTF Writeups](CTF%20Writeups)
 - [Projets](Projets)
