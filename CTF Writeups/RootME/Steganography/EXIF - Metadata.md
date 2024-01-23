@@ -1,7 +1,9 @@
 # EXIF - Metadata
 
 ## Description:
-> In this challenge, we only have one image, and the title.
+> Our sad friend pepo is lost! Can you find where it is?
+
+The password is the city where pepo is located.
 
 ## Solution:
 
