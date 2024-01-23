@@ -10,7 +10,6 @@ The validation password is the appointment location (in lower case).
 
 
 
-The fact that it says Tweeter in the title intrigues me. Why Tweeter? Why is it written like that? After a lot of searching on the Internet, I finally came across a site that would decode Tweeter's coded messages.
+The fact that it says Tweeter in the title intrigues me. Why Tweeter? Why is it written like that? After a lot of searching on the Internet, I finally came across a [site that would decode Tweeter's coded messages.](https://holloway.nz/steg/)
 
-https://holloway.nz/steg/
-[GitHub Pages](https://pages.github.com/)
+
