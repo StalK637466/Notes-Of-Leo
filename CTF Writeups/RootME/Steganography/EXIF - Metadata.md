@@ -13,7 +13,7 @@ We have a big hint in the title. The "Metadata".
 
 *The Metadata are some informations that describe or relate to a file, such as its name, size, type, date, author, location, and tags.*
 
-So, to extract Metadata from an image, there are multiple ways to do this. But the simpliest way is to use a website. I used [BrandFolder]([https://pages.github.com/](https://brandfolder.com/workbench/extract-metadata)). Simply paste the image into it, and it gives me back all Metadata.
+So, to extract Metadata from an image, there are multiple ways to do this. But the simpliest way is to use a website. I used BrandFolder. Simply paste the image into it, and it gives me back all Metadata.
 
 ![metadata](metadata.png)
 
