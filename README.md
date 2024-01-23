@@ -6,5 +6,6 @@ Capture the Flag (CTF): gamified activity consisting in obtaining a sensitive pi
 
 The CTFs bring together a set of problems whose resolution gives more or less points depending on the difficulty, the number of resolutions or a set of notation rules chosen. The main categories are Web, Forensics, Steganography, Crypto, Binary Analysis, Reverse Engeneering, Network, System Administration (sysadmin), etc.
 
+
 - [CTF Writeups 🏁](CTF%20Writeups)
 
