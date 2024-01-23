@@ -5,4 +5,4 @@
 
 ## Solution:
 
-![alt text]([http://url/to/img.png](http://challenge01.root-me.org/steganographie/ch1/ch1.png)http://challenge01.root-me.org/steganographie/ch1/ch1.png)
+![Screenshot](ch1writeup.png)
