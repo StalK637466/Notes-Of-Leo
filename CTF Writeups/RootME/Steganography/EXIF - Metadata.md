@@ -5,4 +5,4 @@
 
 ## Solution:
 
-![Mon Image](ch1writeup.jpg)
+![Mon Image]([https://example.com/chemin_vers_votre_image.jpg](http://challenge01.root-me.org/steganographie/ch1/ch1.png)http://challenge01.root-me.org/steganographie/ch1/ch1.png)
