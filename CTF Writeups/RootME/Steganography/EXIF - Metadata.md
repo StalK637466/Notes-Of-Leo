@@ -5,4 +5,4 @@
 
 ## Solution:
 
-![Screenshot](ch1writeup.png)
+![Mon Image](ch1writeup.jpg)
