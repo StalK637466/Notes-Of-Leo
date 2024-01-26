@@ -1,6 +1,6 @@
 # Notes 
 
-What Is a CTF ? 🏁
+> ### What Is a CTF ? 🏁
 
 Capture the Flag (CTF): gamified activity consisting in obtaining a sensitive piece of information, the flag. The flag is usually a string of alphanumeric characters. To obtain this string of characters, you need to meet a challenge linked to the understanding of a technical IT concept.
 
