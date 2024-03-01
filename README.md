@@ -9,3 +9,5 @@ The CTFs bring together a set of problems whose resolution gives more or less po
 
 - [CTF Writeups 🏁](CTF%20Writeups)
 
+- [Windows Server](CTF%20Writeups)
+
